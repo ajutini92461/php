@@ -1,0 +1,1 @@
+[{"dni":"51779524","nombre":"claudia","telefono":"3183890883","correo":"anmaria.2400@gmail.com","imagen":""},{"dni":"80865","nombre":"Ang\u00e9lica","telefono":"3183890883","correo":"anmaria.2400@gmail.com","imagen":""},{"dni":"80865","nombre":"claudia","telefono":"3183890883","correo":"anmaria.2400@gmail.com","imagen":""}]
